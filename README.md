@@ -1,11 +1,11 @@
 # Rice_Type_Prediction
 
 ## Using- 
-# •	ReLU layer
-# •	LeakyReLU layer
-# •	PReLU layer
-# •	ELU layer
-# •	ThresholdedReLU layer
+### •	ReLU layer
+### •	LeakyReLU layer
+### •	PReLU layer
+### •	ELU layer
+### •	ThresholdedReLU layer
 
 
 • Arborio, Basmati, Ipsala, Jasmine and Karacadag rice varieties were used.
